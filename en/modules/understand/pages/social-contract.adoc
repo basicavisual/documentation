@@ -5,6 +5,11 @@
 You can also read Decidim's Social Contract in other languages: xref:understand:social-contract-ca.adoc[Català] - xref:understand:social-contract-es.adoc[Castellano]
 
 If you want to translate it to your own language please https://decidim.org/contact[contact us].
+
+This document doesn't accept changes
+
+As the Social Contract is an agreement between all the Decidim community participants, it can't be modified by now.
+
 ====
 
 Code for democratic guarantees and open collaboration
