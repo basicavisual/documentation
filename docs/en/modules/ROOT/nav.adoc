@@ -42,6 +42,7 @@
 *** xref:admin:scopes.adoc[Scopes]
 *** xref:admin:areas.adoc[Areas]
 *** xref:admin:help_sections.adoc[Help sections]
+*** xref:admin:allowed_external_domains.adoc[Allowed external domains]
 ** xref:admin:pages.adoc[Pages]
 ** xref:admin:participants.adoc[Participants]
 *** xref:admin:participants/admins.adoc[Admins]
